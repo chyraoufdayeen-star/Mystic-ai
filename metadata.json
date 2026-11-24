@@ -1,0 +1,6 @@
+{
+  "name": "Mystic AI",
+  "description": "Bilingual (English & Bengali) AI-powered educational companion for Classes 1-10 with Gemini tutors, math solver, grammar tutor, quiz generator, and admin-curated Firestore study notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
